@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Python projects**
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on interesting **Python & ML projects**
-- 💬 Ask me about **Python, GUI (Tkinter), and SQLite**
+- 💬 Ask me about **Python, Flask, and Machine Learning**
 - 📫 Reach me at: **yashr1579@gmail.com**
 - ⚡ Fun fact: *Code is not just about writing instructions, it's about telling a story 🎫*
 
@@ -17,7 +17,7 @@
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Tkinter](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=windowsterminal)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=windowsterminal)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
