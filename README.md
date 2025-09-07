@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yash-Rajput_tech&theme=tokyonight&no-frame=true&column=4)
 
 ---
 
